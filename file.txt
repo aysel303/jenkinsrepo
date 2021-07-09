@@ -1,2 +1,2 @@
-I have added some dummy text 
-adding more dummy text as you can see
+Im adding changes to the file...
+lets see what will happen
